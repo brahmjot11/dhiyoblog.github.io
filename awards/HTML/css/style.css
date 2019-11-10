@@ -2306,6 +2306,7 @@ blockquote {
     color: rgba(0,0,0,0.4);
     font-weight: 580;
     font-family: 'Open Sans', sans-serif;
+    margin-left: -6%;
   }
 } 
 

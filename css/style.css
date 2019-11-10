@@ -646,7 +646,7 @@ html {
   font-size: 20px;
 }
 /*--------------------- Advance Feature ----------------*/
-.advance-feature {padding: 60px 0 200px 0; margin-top: -5%;}
+.advance-feature {padding: 60px 0 200px 0;}
 .advance-feature .feature-text {padding: 200px 70px 0 0;}
 .advance-feature .feature-text>p {margin-top: 40px;}
 .advance-feature .feature-warpper {
@@ -666,7 +666,7 @@ html {
 }
 .advance-feature .feature-warpper .single-feature.m-fix {margin-top: 75px;}
 .advance-feature .feature-warpper .single-feature {
-  padding: 125px 10px 62px 35px;
+  padding: 125px 20px 62px 45px;
   border-radius: 5px;
   margin-bottom: 35px;
   color: #fff;
