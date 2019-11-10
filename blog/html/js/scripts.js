@@ -349,3 +349,9 @@ function container_full_height_init(){
 // $(".corner").on('click',function (){
 //   $("#customizer").toggleClass("s-open");
 // });
+
+
+
+function myfunction1() { 
+                window.open("../../index.html","_blank"); 
+            }

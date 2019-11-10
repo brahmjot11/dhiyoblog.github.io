@@ -1,8 +1,8 @@
 <?php
 
     $to = "pingus@vehle.in";
-    $from = $_REQUEST['email'];
-    $name = $_REQUEST['name'];
+    $from = $_POST['email'];
+    $name = $_POST['name'];
     $headers = "From: $from";
     $subject = "You have a message from your Template";
 

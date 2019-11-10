@@ -1934,6 +1934,19 @@ blockquote {
   }
 }
 
+@media (max-width:600px) {
+  .container .title-block h2 {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: left;
+    margin-left: -35px;
+  }  
+
+  .slick-dots li button:before {
+      display: none; 
+  }
+}
+
 @media (max-width:480px) {
   .container .title-block h2 {
     font-size: 28px;

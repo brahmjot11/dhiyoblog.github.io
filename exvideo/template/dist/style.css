@@ -10526,10 +10526,9 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 1800px;
-		width: 1800px;
-		margin-left: -16%;
-		margin-top: 2%;
+		transform: scale(1.2,1.5);
+		margin-left: -20%;
+		margin-top: 20%;
 	}
 
 	.video .video__button {
@@ -10555,10 +10554,9 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 1500px;
-		width: 1500px;
-		margin-left: -8%;
-		margin-top: 2%;
+		transform: scale(1.2,1.5);
+		margin-left: -20%;
+		margin-top: 20%;
 	}
 
 	.video .video__button {
@@ -10584,10 +10582,9 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 1300px;
-		width: 1300px;
-		margin-left: -15%;
-		margin-top: 2%;
+		transform: scale(1.2,1.5);
+		margin-left: -20%;
+		margin-top: 20%;
 	}
 
 	.video .video__button {
@@ -10616,14 +10613,46 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 1000px;
-		width: 1000px;
-		margin-left: -15%;
-		margin-top: -5%;
+		transform: scale(1.2,1.5);
+		margin-left: -20%;
+		margin-top: 20%;
 	}
 
 	.video .video__button {
 		transform: scale(1.0);
+	}
+}
+
+@media (max-width: 600px) {
+  .section{
+		margin-top: -10%;
+		margin-bottom: -100px;
+	}
+
+	.section .section-subtitle {
+		font-size: 15px;
+		margin-left: -25%;
+		margin-bottom: 5%;
+	}
+
+	.section .section-title {
+		font-size: 28px;
+		line-height: 50px;
+		text-align: left;
+	}
+
+	.section .section-title br {
+		display: none;
+	}
+
+	.section .video {
+		transform: scale(1.5,1.8);
+		margin-left: -2%;
+		margin-top: 5%;
+	}
+
+	.video .video__button {
+		transform: scale(0.6);
 	}
 }
 
@@ -10651,14 +10680,13 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 700px;
-		width: 700px;
-		margin-left: -22%;
-		margin-top: -5%;
+		transform: scale(1.5,1.8);
+		margin-left: 0%;
+		margin-top: 0%;
 	}
 
 	.video .video__button {
-		transform: scale(1.0);
+		transform: scale(0.6);
 	}
 }
 
@@ -10686,14 +10714,13 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 600px;
-		width: 600px;
-		margin-left: -22%;
-		margin-top: -5%;
+		transform: scale(1.5,1.8);
+		margin-left: 0%;
+		margin-top: 0%;
 	}
 
 	.video .video__button {
-		transform: scale(1.0);
+		transform: scale(0.6);
 	}
 }
 
@@ -10720,14 +10747,13 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 500px;
-		width: 500px;
-		margin-left: -18%;
-		margin-top: -5%;
+		transform: scale(1.5,1.8);
+		margin-left: 0%;
+		margin-top: 0%;
 	}
 
 	.video .video__button {
-		transform: scale(1.0);
+		transform: scale(0.6);
 	}
 } 
 
@@ -10754,14 +10780,13 @@ div.video:before {
 	}
 
 	.section .video {
-		height: 500px;
-		width: 500px;
-		margin-left: -20%;
-		margin-top: -5%;
+		transform: scale(1.5,1.8);
+		margin-left: 0%;
+		margin-top: 0%;
 	}
 
 	.video .video__button {
-		transform: scale(1.0);
+		transform: scale(0.6);
 	}
 } 
 

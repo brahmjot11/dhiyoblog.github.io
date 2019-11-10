@@ -396,32 +396,32 @@ p {
 
 @media (max-width:480px) {
   .client-slide .img1 {
-    height: 190px;
-    width: 190px;
+    height: 200px;
+    width: 200px;
   }
   .client-slide .img2 {
-    height: 190px;
-    width: 190px;
+    height: 200px;
+    width: 200px;
   }
   .client-slide .img3 {
-    height: 190px;
-    width: 190px;
+    height: 200px;
+    width: 200px;
   }
   .client-slide .img4 {
-    height: 190px;
-    width: 190px;
+    height: 200px;
+    width: 200px;
   }
   .client-slide .img5 {
-    height: 190px;
-    width: 190px;
+    height: 200px;
+    width: 200px;
   }
   .client-slide .img6 {
-    height: 190px;
-    width: 190px;
+    height: 200px;
+    width: 200px;
   }
   .client-slide .img7 {
-    height: 190px;
-    width: 190px;
+    height: 200px;
+    width: 200px;
   }
        
 } 
@@ -2256,6 +2256,15 @@ blockquote {
 }
 
 @media (max-width: 767px) {
+  .title-block h6 {
+    font-size: 20px;
+    color: rgba(0,0,0,0.4);
+    font-weight: 580;
+    font-family: 'Open Sans', sans-serif;
+  }   
+}
+
+@media (max-width:600px) {
   .title-block h6 {
     font-size: 20px;
     color: rgba(0,0,0,0.4);

@@ -7327,6 +7327,19 @@ input[type="email"].newsletter-input:focus {
   }
 }
 
+@media screen and (max-width: 600px) {
+  .heading {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: left;
+  }
+
+  .subheading {
+    font-size: 15px;
+    text-align: left;
+  }
+}
+
 @media screen and (max-width: 480px) {
   .heading {
     font-size: 28px;

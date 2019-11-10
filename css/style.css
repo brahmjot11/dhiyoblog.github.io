@@ -77,6 +77,9 @@
 ====================================================================
 
  ***/
+html {
+  scroll-behavior: smooth;
+}
 
 #loader-wrapper {
   position: fixed;
@@ -643,7 +646,7 @@
   font-size: 20px;
 }
 /*--------------------- Advance Feature ----------------*/
-.advance-feature {padding: 60px 0 200px 0;}
+.advance-feature {padding: 60px 0 200px 0; margin-top: -5%;}
 .advance-feature .feature-text {padding: 200px 70px 0 0;}
 .advance-feature .feature-text>p {margin-top: 40px;}
 .advance-feature .feature-warpper {

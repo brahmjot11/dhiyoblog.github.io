@@ -4717,12 +4717,12 @@ footer .lower-footer [class*="col-"] {margin-bottom: 50px;}
 
 
 .icon .fa { 
-  transform: scale(4,3);
+  transform: scale(2.6,2);
   color: black;
 }
 
 .icon .fa:hover { 
-  color: #f73859;
+  color: black;
 }
 
 .dhiyofooter {
@@ -4740,5 +4740,9 @@ footer .lower-footer [class*="col-"] {margin-bottom: 50px;}
 
 .btn:hover {
   background-color: #f73859;
+}
+
+.pointer {
+  cursor: pointer;
 }
 
