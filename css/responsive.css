@@ -1991,6 +1991,18 @@
     margin-left: 3%;
   }
 
+  .contact-us-section form input {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form textarea {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form .theme-button {
+    margin-left: 20%;
+  }
+
   .google-map-area {
     margin-bottom: 30%;
   }
