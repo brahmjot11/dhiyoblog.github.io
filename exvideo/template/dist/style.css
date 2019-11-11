@@ -10696,31 +10696,42 @@ div.video:before {
 
 
 @media (max-width: 420px) {
-  .section{
+ .section{
 		margin-top: -10%;
 		margin-bottom: -100px;
 	}
 
 	.section .section-subtitle {
 		font-size: 15px;
-		text-align: left;
+		text-align: center;
 		margin-bottom: 5%;
+		margin-left: 0%;
 	}
 
 	.section .section-title {
 		font-size: 28px;
 		line-height: 50px;
-		text-align: left;
+		text-align: center;
+
+		margin-bottom: 10%;
 	}
 
 	.section .section-title br {
 		display: none;
 	}
 
+	.section .tagline1 {
+		font-size: 16px;
+		padding-top: 5%;
+	}
+
 	.section .video {
-		transform: scale(1.5,1.8);
 		margin-left: 0%;
-		margin-top: 0%;
+		margin-top: 5%;
+	}
+
+	.section .video__holder {
+		width: 70%;
 	}
 
 	.video .video__button {
@@ -10729,31 +10740,42 @@ div.video:before {
 }
 
 @media (max-width:375px) {
-    .section{
+.section{
 		margin-top: -10%;
 		margin-bottom: -100px;
 	}
 
 	.section .section-subtitle {
 		font-size: 15px;
-		text-align: left;
+		text-align: center;
 		margin-bottom: 5%;
+		margin-left: 0%;
 	}
 
 	.section .section-title {
 		font-size: 28px;
 		line-height: 50px;
-		text-align: left;
+		text-align: center;
+
+		margin-bottom: 10%;
 	}
 
 	.section .section-title br {
 		display: none;
 	}
 
+	.section .tagline1 {
+		font-size: 16px;
+		padding-top: 5%;
+	}
+
 	.section .video {
-		transform: scale(1.5,1.8);
 		margin-left: 0%;
-		margin-top: 0%;
+		margin-top: 5%;
+	}
+
+	.section .video__holder {
+		width: 70%;
 	}
 
 	.video .video__button {
@@ -10770,9 +10792,8 @@ div.video:before {
 
 	.section .section-subtitle {
 		font-size: 15px;
-		text-align: left;
+		text-align: center;
 		margin-bottom: 5%;
-		margin-left: 2%;
 	}
 
 	.section .section-title {

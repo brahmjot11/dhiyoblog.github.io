@@ -865,7 +865,7 @@ html {
 }
 .pricing-plan-section .tab-content .table-content .price-table .col-inner {
   position: relative;
-  padding: 55px 15px 60px 15px;
+  padding: 0px 0px 0px 0px;
   text-align: center;
   background: #ffffff;
   -webkit-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);

@@ -7354,15 +7354,19 @@ input[type="email"].newsletter-input:focus {
 }
 
 @media screen and (max-width: 420px) {
-  .heading {
+ .heading {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
   }
 
   .subheading {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
+     margin-left: 3%;
+    margin-right: 3%;
   }
 }
 
@@ -7371,14 +7375,16 @@ input[type="email"].newsletter-input:focus {
   .heading {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     margin-left: 3%;
+    margin-right: 3%;
   }
 
   .subheading {
     font-size: 15px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
+     margin-left: 3%;
+    margin-right: 3%;
   }
 }
 

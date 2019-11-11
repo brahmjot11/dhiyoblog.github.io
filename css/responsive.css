@@ -1085,229 +1085,7 @@
 
 
 @media screen and (max-width: 480px) {
-  .final-logo {
-    height: auto;
-    width: 20%;
-    margin-left: 15px;
-  }
-
-  .nav-links {
-    background-color: white;
-  }
-
-  .collapse .nav-links {
-  margin-top: 3%;
-  margin-right: -6%;
-  } 
-
-  #theme-main-banner .camera_caption .container h6 {
-    font-size: 15px;
-    margin-top: 20%;
-    text-align: left;
-  }
-
-  #theme-main-banner .camera_caption .container h1 {
-    font-size: 28px;
-    line-height: 50px;
-    text-align: left;
-  }
-
-  #theme-main-banner .camera_caption .container p {
-    font-size: 15px; 
-    margin-top: -8%;
-    text-align: left;
-  }
-
-  #theme-main-banner .camera_caption .container .button-two {
-    margin-left: 0%;
-  }
-
-  #theme-main-banner .camera_caption .container .button-two:hover {
-    background-color: #f73859;
-  }
-
-  .html-top-content {
-    margin-bottom: 0 auto; 
-  }
-  #theme-main-banner {
-    height: 1600px !important; 
-    margin-bottom: -450px;
-  }
-
-  .theme-title-one h2 {
-    font-size: 28px;
-    line-height: 32px;
-  }
-
-  #theme-main-banner .camera_caption .container .image-wrapper {
-    height: 130%;
-    width: auto;
-    margin-top: -70%;
-    margin-left: -70px;
-  }
-
-  .what-we-do .container .theme-title-one h6 {
-    font-size: 15px;
-    text-align: left;
-  }
-
-  .what-we-do .container .theme-title-one h2 {
-    font-size: 28px;
-    line-height: 50px;
-    text-align: left;
-  }
-
-  .what-we-do .container .single-block p {
-    font-size: 15px;
-  }
-
-  .what-we-do .container .theme-title-one h2 br {
-    display: none;
-  }
-
-  .exvideo {
-    height: 520px;
-  }
-
-  .boost-your-phone {
-    margin-bottom: -20px;
-  }
-
-  .boost-your-phone .container .theme-title-one h6 {
-    font-size: 15px;
-    text-align: left;
-  }
-
-  .boost-your-phone .container .theme-title-one h2 {
-    font-size: 28px;
-    line-height: 50px;
-    text-align: left;
-    padding-bottom: 5%;
-  }
-
-  .boost-your-phone .container .theme-title-one p {
-    font-size: 15px;
-    padding-bottom: 20%;
-    text-align: left;
-  }
-
-  .advance-feature .container .theme-title-one h6 {
-    font-size: 15px;
-    text-align: left;
-    margin-top: -40%;
-  }
-
-  .advance-feature .container .theme-title-one h2 {
-    font-size: 28px;
-    line-height: 50px;
-    text-align: left;
-  }
-
-  .advance-feature .container .theme-title-one p {
-    font-size: 15px;
-    padding-top: 5%;
-    padding-bottom: -5%;
-    text-align: left;
-  }
-
-  .advance-feature .feature-text p {
-    font-size: 15px;
-    padding-top: -20%;
-  }
-
-  .team11 {
-    margin-top: -40%;
-    height: 750px;
-  }
-
-  .main-page-wrapper .container .theme-title-one h6 {
-    font-size: 15px;
-    text-align: left;
-  }
-
-  .main-page-wrapper .container .theme-title-one h2 {
-    font-size: 28px;
-    line-height: 50px;
-    text-align: left;
-    margin-bottom: -8%;
-  }
-
-  .main-page-wrapper .container .theme-title-one p {
-    font-size: 15px;
-    text-align: left;
-  }
-
-  .main-page-wrapper .theme-title-one h2 br {
-    display: none;
-  }
-
-  .main-page-wrapper .theme-title-one p br {
-    display: none;
-  }
-
-  .main-page-wrapper .container .nav-tabs {
-    margin-left: 0%;
-  }
-
-  .main-page-wrapper .container .table-content {
-    margin-left: -2%;
-  }
-
-  .awards {
-    height: 290px;
-  }
-
-  .contact-us-section {
-    margin-top: -20%;
-  }
-
-  .contact-us-section .contact-address .theme-title-one h6 {
-    font-size: 15px;
-    text-align: left;
-    font-weight: 500;
-  }
-
-  .contact-us-section .contact-address .theme-title-one h2 {
-    font-size: 28px;
-    line-height: 50px;
-    text-align: left;
-    margin-bottom: -10%;
-  }
-
-  .contact-us-section .contact-address p {
-    font-size: 18px;
-    text-align: left;
-  }
-
-  .contact-us-section .contact-address .call {
-    font-size: 20px;
-    margin-left: 0px;
-  }
-
-  .google-map-area {
-    margin-bottom: 30%;
-  }
-
-  .google-map-area .map-image-warpper .placeholder .map-meta-data h6 {
-    font-size: 18px;
-  }
-
-   .google-map-area .map-image-warpper .placeholder .map-meta-data p {
-    font-size: 12px;
-  }
-
-  .bottom-footer .pull-right .social-icon {
-    margin-left: -8%;
-  }
-
-  .bottom-footer .footer-logo img {
-    margin-left: 280%;
-  }
-}
-
-
-@media screen and (max-width: 420px) {
-  .final-logo {
+.final-logo {
     height: auto;
     width: 24%;
     margin-left: 10px;
@@ -1325,23 +1103,25 @@
   #theme-main-banner .camera_caption .container h6 {
     font-size: 15px;
     margin-top: 5%;
-    text-align: left;
+    text-align: center;
   }
 
   #theme-main-banner .camera_caption .container h1 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
   }
 
   #theme-main-banner .camera_caption .container p {
     font-size: 15px; 
     margin-top: -8%;
-    text-align: left;
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
   }
 
   #theme-main-banner .camera_caption .container .button-two {
-    margin-left: 0%;
+    margin-left: 25%;
   }
 
   #theme-main-banner .camera_caption .container .button-two:hover {
@@ -1351,6 +1131,7 @@
   .html-top-content {
     margin-bottom: 0 auto; 
   }
+
   #theme-main-banner {
     height: 1600px !important; 
     margin-bottom: -450px;
@@ -1370,21 +1151,30 @@
 
   .what-we-do .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .what-we-do .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
+  }
+
+  .what-we-do .container .theme-title-one h2 br {
+    display: block;
+  }
+
+  .what-we-do .container .single-block img {
+    margin-top: -15%;
   }
 
   .what-we-do .container .single-block p {
     font-size: 15px;
+    margin-left: 3%;
   }
 
   .exvideo {
-    height: 500px;
+    height: 600px;
   }
 
   .boost-your-phone {
@@ -1393,39 +1183,53 @@
 
   .boost-your-phone .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .boost-your-phone .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     padding-bottom: 5%;
   }
 
   .boost-your-phone .container .theme-title-one p {
     font-size: 15px;
     padding-bottom: 20%;
-    text-align: left;
+    text-align: center;
+    padding-right:5%; 
+    margin-left: 3%;
+  }
+
+  .boost-your-phone .container .theme-title-one p br {
+    display: none;
   }
 
   .advance-feature .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
-    margin-top: -40%;
+    text-align: center;
+    margin-top: -50%;
+    margin-left: 20%;
+    
   }
 
   .advance-feature .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: 0%;
+    
+    
   }
 
   .advance-feature .container .theme-title-one p {
     font-size: 15px;
     padding-top: 5%;
     padding-bottom: -5%;
-    text-align: left;
+    text-align: center;
+    margin-right: -18%;
+    margin-left: 3%;
   }
 
   .advance-feature .feature-text p {
@@ -1433,26 +1237,41 @@
     padding-top: -20%;
   }
 
+  .advance-feature .feature-warpper .single-feature {
+    margin-left: 15%;
+    margin-right: -20%;
+  }
+
+  .advance-feature .feature-warpper .single-feature i {
+    margin-left: 20%;
+  }
+
+  .advance-feature .feature-warpper .single-feature h5, p {
+    text-align: center;
+    margin-left: -15%;
+  }
+
   .team11 {
     margin-top: -40%;
-    height: 700px;
+    height: 900px;
   }
 
   .main-page-wrapper .container .theme-title-one h6 {
+    margin-top: 3%;
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .main-page-wrapper .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     margin-bottom: -8%;
   }
 
   .main-page-wrapper .container .theme-title-one p {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .main-page-wrapper .theme-title-one h2 br {
@@ -1464,7 +1283,7 @@
   }
 
   .main-page-wrapper .container .nav-tabs {
-    margin-left: 0%;
+    margin-left: 10%;
   }
 
   .main-page-wrapper .container .table-content {
@@ -1481,25 +1300,37 @@
 
   .contact-us-section .contact-address .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
     font-weight: 500;
   }
 
   .contact-us-section .contact-address .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
-    margin-bottom: -10%;
+    text-align: center;
+    margin-bottom: -5%;
   }
 
   .contact-us-section .contact-address p {
     font-size: 18px;
-    text-align: left;
+    text-align: center;
   }
 
   .contact-us-section .contact-address .call {
     font-size: 20px;
-    margin-left: 0px;
+    margin-left: 20%;
+  }
+
+  .contact-us-section form input {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form textarea {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form .theme-button {
+    margin-left: 20%;
   }
 
   .google-map-area {
@@ -1521,10 +1352,14 @@
   .bottom-footer .footer-logo img {
     margin-left: 240%;
   }
+
+  .bottom-footer .footer-logo p {
+    margin-left: 2%;
+  }
 }
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 420px) {
  .final-logo {
     height: auto;
     width: 24%;
@@ -1536,30 +1371,32 @@
   }
 
   .collapse .nav-links {
-    margin-top: 3%;
-    margin-right: -6%;
+  margin-top: 3%;
+  margin-right: -6%;
   } 
 
   #theme-main-banner .camera_caption .container h6 {
     font-size: 15px;
     margin-top: 5%;
-    text-align: left;
+    text-align: center;
   }
 
   #theme-main-banner .camera_caption .container h1 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
   }
 
   #theme-main-banner .camera_caption .container p {
     font-size: 15px; 
     margin-top: -8%;
-    text-align: left;
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
   }
 
   #theme-main-banner .camera_caption .container .button-two {
-    margin-left: 0%;
+    margin-left: 25%;
   }
 
   #theme-main-banner .camera_caption .container .button-two:hover {
@@ -1569,6 +1406,7 @@
   .html-top-content {
     margin-bottom: 0 auto; 
   }
+
   #theme-main-banner {
     height: 1600px !important; 
     margin-bottom: -450px;
@@ -1588,21 +1426,30 @@
 
   .what-we-do .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .what-we-do .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
+  }
+
+  .what-we-do .container .theme-title-one h2 br {
+    display: block;
+  }
+
+  .what-we-do .container .single-block img {
+    margin-top: -15%;
   }
 
   .what-we-do .container .single-block p {
     font-size: 15px;
+    margin-left: 3%;
   }
 
   .exvideo {
-    height: 480px;
+    height: 600px;
   }
 
   .boost-your-phone {
@@ -1611,39 +1458,53 @@
 
   .boost-your-phone .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .boost-your-phone .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     padding-bottom: 5%;
   }
 
   .boost-your-phone .container .theme-title-one p {
     font-size: 15px;
     padding-bottom: 20%;
-    text-align: left;
+    text-align: center;
+    padding-right:5%; 
+    margin-left: 3%;
+  }
+
+  .boost-your-phone .container .theme-title-one p br {
+    display: none;
   }
 
   .advance-feature .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
-    margin-top: -40%;
+    text-align: center;
+    margin-top: -50%;
+    margin-left: 20%;
+    
   }
 
   .advance-feature .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
+    margin-right: -20%;
+    margin-left: 0%;
+    
+    
   }
 
   .advance-feature .container .theme-title-one p {
     font-size: 15px;
     padding-top: 5%;
     padding-bottom: -5%;
-    text-align: left;
+    text-align: center;
+    margin-right: -18%;
+    margin-left: 3%;
   }
 
   .advance-feature .feature-text p {
@@ -1651,26 +1512,41 @@
     padding-top: -20%;
   }
 
+  .advance-feature .feature-warpper .single-feature {
+    margin-left: 15%;
+    margin-right: -20%;
+  }
+
+  .advance-feature .feature-warpper .single-feature i {
+    margin-left: 20%;
+  }
+
+  .advance-feature .feature-warpper .single-feature h5, p {
+    text-align: center;
+    margin-left: -15%;
+  }
+
   .team11 {
     margin-top: -40%;
-    height: 700px;
+    height: 900px;
   }
 
   .main-page-wrapper .container .theme-title-one h6 {
+    margin-top: 3%;
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .main-page-wrapper .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     margin-bottom: -8%;
   }
 
   .main-page-wrapper .container .theme-title-one p {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
   }
 
   .main-page-wrapper .theme-title-one h2 br {
@@ -1682,7 +1558,7 @@
   }
 
   .main-page-wrapper .container .nav-tabs {
-    margin-left: 0%;
+    margin-left: 10%;
   }
 
   .main-page-wrapper .container .table-content {
@@ -1699,25 +1575,37 @@
 
   .contact-us-section .contact-address .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
     font-weight: 500;
   }
 
   .contact-us-section .contact-address .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
-    margin-bottom: -10%;
+    text-align: center;
+    margin-bottom: -5%;
   }
 
   .contact-us-section .contact-address p {
     font-size: 18px;
-    text-align: left;
+    text-align: center;
   }
 
   .contact-us-section .contact-address .call {
     font-size: 20px;
-    margin-left: 0px;
+    margin-left: 20%;
+  }
+
+  .contact-us-section form input {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form textarea {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form .theme-button {
+    margin-left: 20%;
   }
 
   .google-map-area {
@@ -1737,14 +1625,16 @@
   }
 
   .bottom-footer .footer-logo img {
-    margin-left: 220%;
+    margin-left: 240%;
   }
 
+  .bottom-footer .footer-logo p {
+    margin-left: 2%;
+  }
 }
 
 
-
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 375px) {
   .final-logo {
     height: auto;
     width: 24%;
@@ -1763,26 +1653,25 @@
   #theme-main-banner .camera_caption .container h6 {
     font-size: 15px;
     margin-top: 5%;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   #theme-main-banner .camera_caption .container h1 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   #theme-main-banner .camera_caption .container p {
     font-size: 15px; 
     margin-top: -8%;
-    text-align: left;
+    text-align: center;
     margin-left: 3%;
+    margin-right: 3%;
   }
 
   #theme-main-banner .camera_caption .container .button-two {
-    margin-left: 3%;
+    margin-left: 23%;
   }
 
   #theme-main-banner .camera_caption .container .button-two:hover {
@@ -1812,15 +1701,13 @@
 
   .what-we-do .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   .what-we-do .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   .what-we-do .container .theme-title-one h2 br {
@@ -1846,22 +1733,20 @@
 
   .boost-your-phone .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   .boost-your-phone .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     padding-bottom: 5%;
-    margin-left: 3%;
   }
 
   .boost-your-phone .container .theme-title-one p {
     font-size: 15px;
     padding-bottom: 20%;
-    text-align: left;
+    text-align: center;
     padding-right:5%; 
     margin-left: 3%;
   }
@@ -1872,26 +1757,303 @@
 
   .advance-feature .container .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
     margin-top: -50%;
-    margin-left: 3%;
+    margin-left: 30%;
+    
   }
 
   .advance-feature .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
-    margin-left: 3%;
-    margin-right: -20%;
+    text-align: center;
+    margin-right: -25%;
+    
+    
   }
 
   .advance-feature .container .theme-title-one p {
     font-size: 15px;
     padding-top: 5%;
     padding-bottom: -5%;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
     margin-right: -20%;
+    margin-left: 5%;
+  }
+
+  .advance-feature .feature-text p {
+    font-size: 15px;
+    padding-top: -20%;
+  }
+
+  .advance-feature .feature-warpper .single-feature {
+    margin-left: 15%;
+    margin-right: -20%;
+  }
+
+  .advance-feature .feature-warpper .single-feature i {
+    margin-left: 20%;
+  }
+
+  .advance-feature .feature-warpper .single-feature h5, p {
+    text-align: center;
+    margin-left: -15%;
+  }
+
+  .team11 {
+    margin-top: -40%;
+    height: 900px;
+  }
+
+  .main-page-wrapper .container .theme-title-one h6 {
+    margin-top: 3%;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .main-page-wrapper .container .theme-title-one h2 {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: -8%;
+  }
+
+  .main-page-wrapper .container .theme-title-one p {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .main-page-wrapper .theme-title-one h2 br {
+    display: none;
+  }
+
+  .main-page-wrapper .theme-title-one p br {
+    display: none;
+  }
+
+  .main-page-wrapper .container .nav-tabs {
+    margin-left: 10%;
+  }
+
+  .main-page-wrapper .container .table-content {
+    margin-left: -2%;
+  }
+
+  .awards {
+    height: 240px;
+  }
+
+  .contact-us-section {
+    margin-top: -20%;
+  }
+
+  .contact-us-section .contact-address .theme-title-one h6 {
+    font-size: 15px;
+    text-align: center;
+    font-weight: 500;
+  }
+
+  .contact-us-section .contact-address .theme-title-one h2 {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: center;
+    margin-bottom: -5%;
+  }
+
+  .contact-us-section .contact-address p {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .contact-us-section .contact-address .call {
+    font-size: 20px;
+    margin-left: 20%;
+  }
+
+  .contact-us-section form input {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form textarea {
+    margin-left: 3%;
+  }
+
+  .contact-us-section form .theme-button {
+    margin-left: 20%;
+  }
+
+  .google-map-area {
+    margin-bottom: 30%;
+  }
+
+  .google-map-area .map-image-warpper .placeholder .map-meta-data h6 {
+    font-size: 18px;
+  }
+
+   .google-map-area .map-image-warpper .placeholder .map-meta-data p {
+    font-size: 12px;
+  }
+
+  .bottom-footer .pull-right .social-icon {
+    margin-left: -8%;
+  }
+
+  .bottom-footer .footer-logo img {
+    margin-left: 210%;
+  }
+
+  .bottom-footer .footer-logo p {
+    margin-left: 2%;
+  }
+
+
+}
+
+
+
+@media screen and (max-width: 360px) {
+  .final-logo {
+    height: auto;
+    width: 24%;
+    margin-left: 10px;
+  }
+
+  .nav-links {
+    background-color: white;
+  }
+
+  .collapse .nav-links {
+  margin-top: 3%;
+  margin-right: -6%;
+  } 
+
+  #theme-main-banner .camera_caption .container h6 {
+    font-size: 15px;
+    margin-top: 5%;
+    text-align: center;
+  }
+
+  #theme-main-banner .camera_caption .container h1 {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: center;
+  }
+
+  #theme-main-banner .camera_caption .container p {
+    font-size: 15px; 
+    margin-top: -8%;
+    text-align: center;
+  }
+
+  #theme-main-banner .camera_caption .container .button-two {
+    margin-left: 20%;
+  }
+
+  #theme-main-banner .camera_caption .container .button-two:hover {
+    background-color: #f73859;
+  }
+
+  .html-top-content {
+    margin-bottom: 0 auto; 
+  }
+
+  #theme-main-banner {
+    height: 1600px !important; 
+    margin-bottom: -450px;
+  }
+
+  .theme-title-one h2 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  #theme-main-banner .camera_caption .container .image-wrapper {
+    height: 130%;
+    width: auto;
+    margin-top: -90%;
+    margin-left: -70px;
+  }
+
+  .what-we-do .container .theme-title-one h6 {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .what-we-do .container .theme-title-one h2 {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: center;
+  }
+
+  .what-we-do .container .theme-title-one h2 br {
+    display: block;
+  }
+
+  .what-we-do .container .single-block img {
+    margin-top: -15%;
+  }
+
+  .what-we-do .container .single-block p {
+    font-size: 15px;
+    margin-left: 3%;
+  }
+
+  .exvideo {
+    height: 560px;
+  }
+
+  .boost-your-phone {
+    margin-bottom: -20px;
+  }
+
+  .boost-your-phone .container .theme-title-one h6 {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .boost-your-phone .container .theme-title-one h2 {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: center;
+    padding-bottom: 5%;
+  }
+
+  .boost-your-phone .container .theme-title-one p {
+    font-size: 15px;
+    padding-bottom: 20%;
+    text-align: center;
+    padding-right:5%; 
+    margin-left: 3%;
+  }
+
+  .boost-your-phone .container .theme-title-one p br {
+    display: none;
+  }
+
+  .advance-feature .container .theme-title-one h6 {
+    font-size: 15px;
+    text-align: center;
+    margin-top: -50%;
+    margin-left: 30%;
+    
+  }
+
+  .advance-feature .container .theme-title-one h2 {
+    font-size: 28px;
+    line-height: 50px;
+    text-align: center;
+    margin-left: 3%;
+    
+    
+  }
+
+  .advance-feature .container .theme-title-one p {
+    font-size: 15px;
+    padding-top: 5%;
+    padding-bottom: -5%;
+    text-align: center;
+    
+    margin-left: 5%;
   }
 
   .advance-feature .feature-text p {
@@ -1922,22 +2084,19 @@
   .main-page-wrapper .container .theme-title-one h6 {
     margin-top: 3%;
     font-size: 15px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   .main-page-wrapper .container .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     margin-bottom: -8%;
-    margin-left: 3%;
   }
 
   .main-page-wrapper .container .theme-title-one p {
     font-size: 15px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   .main-page-wrapper .theme-title-one h2 br {
@@ -1949,7 +2108,7 @@
   }
 
   .main-page-wrapper .container .nav-tabs {
-    margin-left: 3%;
+    margin-left: 10%;
   }
 
   .main-page-wrapper .container .table-content {
@@ -1966,29 +2125,25 @@
 
   .contact-us-section .contact-address .theme-title-one h6 {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
     font-weight: 500;
-    margin-left: 3%;
   }
 
   .contact-us-section .contact-address .theme-title-one h2 {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
     margin-bottom: -5%;
-    margin-left: 3%;
   }
 
   .contact-us-section .contact-address p {
     font-size: 18px;
-    text-align: left;
-    margin-left: 3%;
+    text-align: center;
   }
 
   .contact-us-section .contact-address .call {
     font-size: 20px;
-    margin-left: 0%;
-    margin-left: 3%;
+    margin-left: 20%;
   }
 
   .contact-us-section form input {
