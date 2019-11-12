@@ -7305,51 +7305,74 @@ input[type="email"].newsletter-input:focus {
 
 
 @media (max-width: 991px) {
-  .heading {
+ .heading {
     font-size: 28px;
     line-height: 50px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20%;
   }
 
   .subheading {
     font-size: 15px;
+    text-align: center;
+     margin-left: 5%;
+    margin-right: 5%;
   }
 }
 
 
 @media (max-width: 767px) {
-  .heading {
+.heading {
     font-size: 28px;
     line-height: 50px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20%;
   }
 
   .subheading {
     font-size: 15px;
+    text-align: center;
+     margin-left: 5%;
+    margin-right: 5%;
   }
 }
 
 @media screen and (max-width: 600px) {
-  .heading {
+ .heading {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 20%;
   }
 
   .subheading {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
+     margin-left: 3%;
+    margin-right: 3%;
   }
 }
 
 @media screen and (max-width: 480px) {
-  .heading {
+ .heading {
     font-size: 28px;
     line-height: 50px;
-    text-align: left;
+    text-align: center;
+    margin-left: 3%;
+    margin-right: 3%;
   }
 
   .subheading {
     font-size: 15px;
-    text-align: left;
+    text-align: center;
+     margin-left: 3%;
+    margin-right: 3%;
   }
 }
 

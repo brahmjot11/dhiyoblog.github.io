@@ -700,6 +700,12 @@ html {
 .advance-feature .feature-warpper .single-feature.bg-two {background-image: linear-gradient( 51deg, rgb(241,177,23) 0%, rgb(255,216,98) 100%);}
 .advance-feature .feature-warpper .single-feature.bg-three {background-image: linear-gradient( 51deg, rgb(127,95,206) 0%, rgb(179,123,236) 99%);}
 .advance-feature .feature-warpper .single-feature.bg-four {background-image: linear-gradient( 51deg, rgb(49,176,100) 0%, rgb(40,243,135) 100%);}
+
+/*.advance-feature .feature-warpper .single-feature.bg-one {background-color: #67717d;}
+.advance-feature .feature-warpper .single-feature.bg-two {background-color: #7e685a;}
+.advance-feature .feature-warpper .single-feature.bg-three {background-color: #afd275;}
+.advance-feature .feature-warpper .single-feature.bg-four {background-color: #706465;}*/
+
 .two-section-wrapper {
   background: url(../images/home/bg-3.png) no-repeat  center center;
 }
@@ -865,7 +871,7 @@ html {
 }
 .pricing-plan-section .tab-content .table-content .price-table .col-inner {
   position: relative;
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 0px px;
   text-align: center;
   background: #ffffff;
   -webkit-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);
