@@ -2090,10 +2090,9 @@
   }
 
   #theme-main-banner .camera_caption .container .image-wrapper {
-    height: 130%;
-    width: auto;
-    margin-top: -90%;
-    margin-left: -70px;
+    
+    margin-right: 55%;
+    
   }
 
   .what-we-do .container .theme-title-one h6 {
