@@ -242,11 +242,6 @@ h5 {
   font-size: 17px;
   font-weight: 400; }
 
-.h6,
-h6 {
-  font-size: 14px;
-  font-weight: 400; }
-
 p {
   font-size: 16px;
   font-weight: 400;
@@ -270,14 +265,23 @@ p {
     max-width: 650px;
     margin: 0 auto 25px; }
 
-  .title-block h6 {
-    color:#00000a; 
-    font-weight: 600; 
-    font-size: 25px; 
-    line-height: 60px; 
-    padding-bottom: 0px;
+    .title-block h2 {
     font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: rgba(0,0,10);
+    letter-spacing: 1px;
+    margin-bottom: 22px;
+    font-size: 38px; 
+  }
+
+  .title-block h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
     text-transform: uppercase;
+    color: rgba(166,166,166);
+    letter-spacing: 1px;
+    margin-bottom: 22px;
+    font-size: 20px; 
   }  
 
 /*@media
@@ -581,8 +585,7 @@ p {
   .dark-theme h2,
   .dark-theme h3,
   .dark-theme h4,
-  .dark-theme h5,
-  .dark-theme h6 {
+  .dark-theme h5 {
     color: #2a2e2f; }
 
 .light {
@@ -827,39 +830,50 @@ button {
     padding-bottom: -70%;
   }
 
+.client-slide {
+  margin-left: 2%;
+}
+
 .client-slide .img1 {
   height: 250px;
   width: 250px;
+  padding-right: 15%;
 }
 
 .client-slide .img2 {
   height: 250px;
   width: 250px;
+  padding-right: 15%;
 }
 
 .client-slide .img3 {
   height: 250px;
   width: 250px;
+  padding-right: 15%;
 }
 
 .client-slide .img4 {
   height: 250px;
   width: 250px;
+  padding-right: 15%;
 }
 
 .client-slide .img5 {
   height: 250px;
   width: 250px;
+  padding-right: 15%;
 }
 
 .client-slide .img6 {
   height: 250px;
   width: 250px;
+  padding-right: 15%;
 }
 
 .client-slide .img7 {
   height: 250px;
   width: 250px;
+  padding-right: 15%;
 }
 
 .blackandwhite {
@@ -2210,41 +2224,7 @@ blockquote {
 /*mobile optimization*/
 
 
-@media (max-width: 1920px) {
-  /*.title-block h6 {
-    font-size: 32px;
-    color: rgba(0,0,0,0.4;
-    font-weight: 580;
-    font-family: 'Open Sans', sans-serif;
-  }*/
-}
 
-@media (max-width: 1440px) {
-  .title-block h6 {
-    font-size: 30px;
-    color: rgba(0,0,0,0.8);
-    font-weight: 580;
-    font-family: 'Open Sans', sans-serif;
-  }
-}
-
-@media (max-width: 1366px) {
-  .title-block h6 {
-    font-size: 24px;
-    color: rgba(0,0,0,0.4);
-    font-weight: 580;
-    font-family: 'Open Sans', sans-serif;
-  }
-}
-
-@media (max-width: 1280px) {
-  .title-block h6 {
-    font-size: 22px;
-    color: rgba(0,0,0,0.4);
-    font-weight: 580;
-    font-family: 'Open Sans', sans-serif;
-  }
-}
 
 @media (max-width: 991px) {
   .title-block h6 {

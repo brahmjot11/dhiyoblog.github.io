@@ -235,10 +235,15 @@ h5 {
   font-size: 17px;
   font-weight: 400; }
 
-.h6,
 h6 {
-  font-size: 14px;
-  font-weight: 400; }
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: rgba(166,166,166);
+  letter-spacing: 1px;
+  margin-bottom: 22px;
+  font-size: 20px; 
+}
 
 p {
   font-size: 16px;
@@ -300,8 +305,7 @@ p {
   .dark-theme h2,
   .dark-theme h3,
   .dark-theme h4,
-  .dark-theme h5,
-  .dark-theme h6 {
+  .dark-theme h5 {
     color: #2a2e2f; }
 
 .light {
@@ -1870,8 +1874,6 @@ blockquote {
   }
 
 
-
-
 /*mobile optimization*/
 
 
@@ -2010,6 +2012,9 @@ blockquote {
 @media (max-width: 320px) {
   
 }
+
+
+
 
 
 
