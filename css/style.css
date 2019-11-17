@@ -166,7 +166,7 @@ html {
  }
 .main-page-wrapper {
   overflow-x:hidden;
-  margin-top: -12%;
+  margin-top: -5%;
 }
 .html-top-content {
   position: relative;
@@ -459,7 +459,7 @@ html {
 .home-page-one #theme-main-banner .camera_caption .container a:hover,
 .home-page-one #theme-main-banner.banner-one .camera_caption .container a.button-two:hover {
   /*background: linear-gradient(to top right, #ffa85b 0%, #ff4182 100%);*/
-  background-color: #f73859;
+  background-color:;
   
   color: #fff;
 }
@@ -469,7 +469,7 @@ html {
   margin-top: -5%;
   margin-right: -13%;
 }
-#theme-main-banner .camera_caption .container .image-wrapper img {max-width: 100% !important;}
+#theme-main-banner .camera_caption .container .image-wrapper img {max-width: 100%;}
 #theme-main-banner .camera_caption .container .image-wrapper,
 #theme-main-banner.banner-two .camera_caption .container .image-wrapper {
   right: -140px;
@@ -546,7 +546,7 @@ html {
           transform:scale(0.9);
 }
 /*-------------------- Boost Your Phone -----------------*/
-.boost-your-phone {margin: 110px 0 125px 0;}
+.boost-your-phone {margin: -50px 0 125px 0;}
 .boost-your-phone .container {position: relative;}
 .boost-your-phone .boster-image-wrapper {
   position: absolute;
@@ -675,7 +675,7 @@ html {
 }
 .advance-feature .feature-warpper .single-feature.m-fix {margin-top: 75px;}
 .advance-feature .feature-warpper .single-feature {
-  padding: 125px 20px 62px 45px;
+  padding: 110px 15px 30px 22px;
   border-radius: 5px;
   margin-bottom: 35px;
   color: #fff;
@@ -883,11 +883,11 @@ html {
   position: relative;
   padding: 0px 0px 0px px;
   text-align: center;
-  background: #ffffff;
-  -webkit-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);
+  background: transparent;
+/*  -webkit-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);
   -ms-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);
   -o-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);
-  box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);
+  box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.05);*/
 }
 .pricing-plan-section .tab-content .table-content .price-table .col-inner h6 {
   font-weight: 600;
@@ -977,7 +977,7 @@ html {
 }
 .contact-us-section .contact-us-form input[type="text"]:focus,
 .contact-us-section .contact-us-form input[type="email"]:focus,
-.contact-us-section .contact-us-form textarea:focus {border-bottom-color: #3fdefb;}
+.contact-us-section .contact-us-form textarea:focus {border-bottom-color: #272727;}
 .contact-us-section .contact-us-form input[type="text"],
 .contact-us-section .contact-us-form input[type="email"] {
   height: 60px;
@@ -1503,7 +1503,7 @@ footer .bottom-footer [class*="col-"] {margin-bottom: 50px;}*/
 
 
 .awards {
-  height: 750px; 
+  height: 840px; 
   background-color: white; 
   margin-bottom: 0%;
   background-attachment: fixed;
